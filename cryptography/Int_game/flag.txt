@@ -1,0 +1,1 @@
+AlphaCTF{this_is_a_test_flag}
